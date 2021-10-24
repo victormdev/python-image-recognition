@@ -20,4 +20,5 @@ for(x, y, l, a) in faces:
 
 # Mostrando a imagem em popup
 cv2.imshow("Faces", image)
+
 cv2.waitKey()
